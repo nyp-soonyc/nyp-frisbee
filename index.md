@@ -15,20 +15,13 @@ sections:
         key_highlights:
             - title: Date
               description: 7 Dec 19
-              url: https://google.com
+             
             - title: Time
               description: Important highlight B is equally important
-              url: https://gmail.com
+              
             - title: Venue
               description: Nanyang Polytechnic Indoor Sport Hall (Blk G Level 2) 
-              url: /privacy/
-   
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+              
      
     - resources:
         title: Media
