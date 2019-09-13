@@ -13,26 +13,23 @@ sections:
         button: Register Now
         url: /contact-us/
         key_highlights:
-            - title: Date
-              description: 7 Dec 19
+            - title: Highlight A
+              description: Important highlight A is important
               url: https://google.com
-            - title: Time
+            - title: Highlight B
               description: Important highlight B is equally important
               url: https://gmail.com
-            - title: Venue
-              description: Nanyang Polytechnic Indoor Sport Hall (Blk G Level 2) 
+            - title: Page A
+              description: Page A is important too
               url: /privacy/
-   
     - infobar:
         title: Infobar title
         subtitle: Subtitle
         description: About a sentence worth of description here
         button: Button text
         url: /faq/
-        
     - resources:
         title: Media
         subtitle: Learn more
         button: View More
 
----
