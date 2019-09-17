@@ -7,20 +7,20 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
     - hero:
-        title: Hero title
-        subtitle: Hero subtitle
+        title: Welcome to Frisbee & Christmas Carnvial 2019
+        subtitle: This is an event to promote Physical Wellness and Lifelong Learning amongst the residents 
         background: /images/hero-banner.png
-        button: Contact Us
+        button: Register Now
         url: /contact-us/
         key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
+            - title: Date
+              description: 7 December 201
               url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
+            - title: Time
+              description: 2pm to 6pm
               url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
+            - title: Venue
+              description: Nanyang Polytechnic Indoor Sport Hall (Blk G Level 2) 
               url: /privacy/
     - infobar:
         title: Infobar title
